@@ -1,5 +1,5 @@
 {
-  "homepage": "https://ankit_mene.github.io/",
+  "homepage": "https://Ankit-Mene.github.io/ankit_mene.github.io/",
   "name": "frontend",
   "version": "0.1.0",
   "private": true,
@@ -63,8 +63,7 @@
     "build": "craco build",
     "test": "craco test",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
-    "eject": "react-scripts eject"
+    "deploy": "gh-pages -d build"  
   },
   "browserslist": {
     "production": [
